@@ -23,7 +23,7 @@
 
 - Tun模式（关闭系统代理，打开Tun模式）
 <p float="left">
-  <img src="image/Tun mode.png?raw=true" width="80%" />
+  <img src="image/tun mode.png?raw=true" width="80%" />
 </p>
 
 ## 设置路由模式（规则 or 全局）
